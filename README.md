@@ -1,10 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya03ranjan01&label=Profile%20views&color=0e75b6&style=flat" alt="priya03ranjan01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya03ranjan01" alt="priya03ranjan01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pr1ya_ranjan" target="blank"><img src="https://img.shields.io/twitter/follow/pr1ya_ranjan?logo=twitter&style=for-the-badge" alt="pr1ya_ranjan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Pr1ya_Ranjan" target="blank"><img src="https://img.shields.io/twitter/follow/Pr1ya_Ranjan?logo=twitter&style=for-the-badge" alt="pr1ya_ranjan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
